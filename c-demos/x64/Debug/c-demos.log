@@ -1,2 +1,4 @@
-﻿  hello-world.c
+﻿  main.c
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(5,2): warning C4013: 'helloworld' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(8,2): warning C4013: 'calculator' undefined; assuming extern returning int
   c-demos.vcxproj -> C:\Users\tygin\Repos\c-demos\c-demos\x64\Debug\c-demos.exe
