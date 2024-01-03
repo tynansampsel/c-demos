@@ -1,0 +1,40 @@
+﻿  arrays.c
+  bubblesort.c
+  calculator.c
+  hello-world.c
+C:\Users\tygin\Repos\c-demos\c-demos\bubblesort.c(12,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  input-test.c
+  main.c
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(4,2): warning C4013: 'chooseDemo' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(36,4): warning C4013: 'helloworld' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(40,4): warning C4013: 'calculator' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(44,4): warning C4013: 'arrays' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(48,4): warning C4013: 'bubblesort' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(52,4): warning C4013: 'pointerfun' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(56,4): warning C4013: 'stringfun' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(60,4): warning C4013: 'inputtest' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(64,4): warning C4013: 'random' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(68,4): warning C4013: 'shuffling' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(72,4): warning C4013: 'displaytime' undefined; assuming extern returning int
+  pointerfun.c
+C:\Users\tygin\Repos\c-demos\c-demos\pointerfun.c(10,2): warning C4013: 'printArray' undefined; assuming extern returning int
+  random.c
+  shuffling.c
+C:\Users\tygin\Repos\c-demos\c-demos\shuffling.c(15,11): warning C4013: 'rand' undefined; assuming extern returning int
+  stringfun.c
+  displaytime.c
+C:\Users\tygin\Repos\c-demos\c-demos\displaytime.c(10,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'time_t'
+  C:\Users\tygin\Repos\c-demos\c-demos\displaytime.c(10,9):
+  consider using '%lld' in the format string
+  C:\Users\tygin\Repos\c-demos\c-demos\displaytime.c(10,9):
+  consider using '%Id' in the format string
+  C:\Users\tygin\Repos\c-demos\c-demos\displaytime.c(10,9):
+  consider using '%I64d' in the format string
+  
+C:\Users\tygin\Repos\c-demos\c-demos\displaytime.c(6,12): warning C4101: 'local': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(84): warning C4715: 'chooseDemo': not all control paths return a value
+  Finished generating code
+  c-demos.vcxproj -> C:\Users\tygin\Repos\c-demos\c-demos\x64\Release\c-demos.exe
