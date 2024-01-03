@@ -127,9 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arrays.c" />
+    <ClCompile Include="bubblesort.c" />
     <ClCompile Include="calculator.c" />
     <ClCompile Include="hello-world.c" />
+    <ClCompile Include="input-test.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="pointerfun.c" />
+    <ClCompile Include="random.c" />
+    <ClCompile Include="shuffling.c" />
+    <ClCompile Include="stringfun.c" />
+    <ClCompile Include="displaytime.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

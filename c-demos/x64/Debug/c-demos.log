@@ -1,4 +1,15 @@
 ﻿  main.c
-C:\Users\tygin\Repos\c-demos\c-demos\main.c(5,2): warning C4013: 'helloworld' undefined; assuming extern returning int
-C:\Users\tygin\Repos\c-demos\c-demos\main.c(8,2): warning C4013: 'calculator' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(4,2): warning C4013: 'chooseDemo' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(35,7): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(36,4): warning C4013: 'helloworld' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(40,4): warning C4013: 'calculator' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(44,4): warning C4013: 'arrays' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(48,4): warning C4013: 'bubblesort' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(52,4): warning C4013: 'pointerfun' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(56,4): warning C4013: 'stringfun' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(60,4): warning C4013: 'inputtest' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(64,4): warning C4013: 'random' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(68,4): warning C4013: 'shuffling' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(72,4): warning C4013: 'displaytime' undefined; assuming extern returning int
+C:\Users\tygin\Repos\c-demos\c-demos\main.c(84): warning C4715: 'chooseDemo': not all control paths return a value
   c-demos.vcxproj -> C:\Users\tygin\Repos\c-demos\c-demos\x64\Debug\c-demos.exe

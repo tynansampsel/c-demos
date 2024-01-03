@@ -24,5 +24,29 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arrays.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="bubblesort.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pointerfun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stringfun.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="input-test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shuffling.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="random.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="displaytime.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
