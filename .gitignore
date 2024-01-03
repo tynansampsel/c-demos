@@ -1,18 +1,4 @@
-# Compiled Object files, Static and Dynamic libs (Shared Objects)
-*.slo
-*.lo
-*.o
-*.obj
-*.a
-*.lib
-*.dll
-*.so
-*.dylib
 
-# Executables
-*.exe
-*.out
-*.app
 
 # Windows image file caches
 Thumbs.db
